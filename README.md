@@ -113,7 +113,7 @@ To set up and run this project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/prescripto.git
+   git clone https://github.com/your-username/Doctor-Appointment-App.git
    cd prescripto
    ```
 
